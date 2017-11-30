@@ -1,0 +1,41 @@
+body {
+	background: url("paws.png");
+	background-size:cover;
+	font-family: 'Slabo 27px', serif;;
+}
+
+.stylebutton {
+	background-color:#bd7e4a;
+	border-radius:5px;
+	color:white;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 10px;
+}
+.stylebutton:hover{
+	background-color:#d2a56d;
+}
+
+.headerthing {
+	background-color:#83502e;
+	color:white;
+
+}
+
+
+
+#add-dog{
+	border-radius:5px;
+	margin-top: 5px;
+	background-color: #bd7e4a;
+	color: white;
+}
+
+div .picture {
+
+	display: inline-block;
+	margin-left:10%;
+	background-color:white;
+	padding:5px;
+
+}
